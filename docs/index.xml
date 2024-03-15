@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>caijiuduolian</title>
+    <link>https://example.org/</link>
+    <description>Recent content on caijiuduolian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2024 11:54:22 +0800</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>哈哈哈哈哈哈</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Fri, 15 Mar 2024 11:54:22 +0800</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>xinwenbiaoti 俄罗斯总统选举投票正式开始 位于俄罗斯领土最东端的堪察加边疆区、楚科奇自治区等地的投票站于当地时间15日8时开放，2024年俄总统选举投票正式开始。
+根据俄总统选举规则，在选举中获得50%以上选票者当选总统。如果候选人有两名以上，而其中任何一人都未能当选，中央选举委员会将宣布对得票领先的两名候选人进行第二轮投票，在第二轮投票中得票高者当选总统。俄中央选举委员会将不晚于3月28日确认此次总统选举结果，并在选举结果确认后3日内予以公布。</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '菜就多练 输不起就别玩'
+theme = 'ananke'
+publishDir = 'docs'
